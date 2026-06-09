@@ -84,7 +84,7 @@ java -cp out app.Main
 ---
 
 **Repositorio GitHub:** [https://github.com/TheSupportCode/LlanquihueTour](https://github.com/TheSupportCode/LlanquihueTour)
-**Fecha de entrega:** [DD/MM/2025]
+**Fecha de entrega:** [08/06/2026]
 
 ---
 
